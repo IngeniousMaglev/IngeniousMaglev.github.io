@@ -1,5 +1,5 @@
 # IngeniousMaglev.github.io
-MY PORTFOLIO
+
 👋 Hi, I’m @IngeniousMaglev
 👀 I’m interested in Programming and Software developement
 🌱 I’m currently learning Identity and Access Management
